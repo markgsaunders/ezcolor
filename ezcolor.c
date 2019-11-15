@@ -1,4 +1,4 @@
-#include "colors.h"
+#include "ezcolor.h"
 
 cy_rslt_t init_colors( void )
 {
